@@ -1,1 +1,1 @@
-# AI_Lab_Project
+# AI-Project
